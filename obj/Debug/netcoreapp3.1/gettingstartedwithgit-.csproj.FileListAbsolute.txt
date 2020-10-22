@@ -1,0 +1,13 @@
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-.deps.json
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-.runtimeconfig.json
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-.runtimeconfig.dev.json
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-.dll
+/home/codespace/workspace/gettingstartedwithgit-/bin/Debug/netcoreapp3.1/gettingstartedwithgit-.pdb
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.csprojAssemblyReference.cache
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.AssemblyInfoInputs.cache
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.AssemblyInfo.cs
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.dll
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.pdb
+/home/codespace/workspace/gettingstartedwithgit-/obj/Debug/netcoreapp3.1/gettingstartedwithgit-.genruntimeconfig.cache
